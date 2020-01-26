@@ -1,0 +1,21 @@
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\Work with configuration.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\staticwebassets\Work with configuration.StaticWebAssets.Manifest.cache
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\staticwebassets\Work with configuration.StaticWebAssets.xml
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\Work with configuration.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\Work with configuration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\Work with configuration.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\Work with configuration.AssemblyInfo.cs
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\project.json
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\Work with configuration.exe
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\Work with configuration.deps.json
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\Work with configuration.runtimeconfig.json
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\Work with configuration.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\Work with configuration.dll
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\bin\Debug\netcoreapp3.1\Work with configuration.pdb
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\Work with configuration.RazorTargetAssemblyInfo.cache
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\Work with configuration.dll
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\Work with configuration.pdb
+C:\Users\ivano\source\repos\Work with configuration\Work with configuration\obj\Debug\netcoreapp3.1\Work with configuration.genruntimeconfig.cache
